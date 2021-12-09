@@ -1,5 +1,6 @@
 # <p align="center"> PREDICTICE </p>
 
+ ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Predictice)
 
 
   
@@ -17,6 +18,7 @@ Hey dear readers ✌️
 3. [What are our challenges?](#paragraph2)
 4. [Our Tech Stack](#paragraph3)
 5. [More Data about Predictice](#paragraph4)
+6. [Some useful links](#paragraph5)
 
 
 ## **What is Predictice?**<a name="introduction"></a>
@@ -72,6 +74,34 @@ On the one hand, these challenges give us the opportunity to experiment with new
 - 13 deployments per month
 - 185,000 codes spread over 60 projects
 - 400 mega bytes of data  processed per day  
+  
+  
+ ## **Here some useful links**<a name="paragraph5"></a>
+ 
+💙 [Predictice](https://predictice.com/)
+  
+  <br />
+  
+👨‍💻 [Sharing tech skills at Predictice](https://medium.com/@predictice4tech/sharing-tech-skills-at-predictice-786e8159814f)
+  
+  <br />
+  
+🤝[Job offers](https://www.welcometothejungle.com/fr/companies/predictice/jobs)
+  
+  <br />
+  <br />
+  <br />
+  
+ 
+ ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api?username=Predictice&show_icons=true) 
+  
+  <br />
+  <br />
+  
+  ## 😂 Here a random joke !
+ ![Carte de blagues](https://readme-jokes.vercel.app/api)
+    
+ 
   
 <!---
 predictice/predictice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
