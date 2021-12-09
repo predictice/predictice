@@ -47,7 +47,7 @@ Our main goal is to gather the tech team together and to skill-up on various sub
 On the one hand, these challenges give us the opportunity to experiment with new technologies, either to solve internal operational problems, or to improve or even start new features... On the other hand, these meetings allow us to capitalize on existing knowledge, so that developing habits and tips become lingua franca.
 
 
-## **Our Tech Stack**<a name="paragraph3"></a
+## **Our Tech Stack**<a name="paragraph3">
 - Spring-Boot
 - Java
 - Elasticsearch
