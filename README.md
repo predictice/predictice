@@ -36,8 +36,9 @@ The engineering team is composed of back-end, full-stack, front-end developers, 
 <p align="center">🌍️🏖️🏕️🏞️
 
 
-Predictice is based in Paris, France, but 80% of us are working in full remote mode, which means that some of us can code while enjoying a beautiful view of the ocean, the fields, the mountain, but also some other foreign landscapes such as the Big Ben in London . 
-Of the entire team which composed Predictice, 1/3 of the team is now 100% teleworking everywhere in France and the rest benefit from 2 or 3 remote days per week.
+Predictice is based in Paris, France, but 80% of us are working in full remote mode, which means that some of us can code while enjoying a beautiful view of the ocean, the fields, the mountain, but also some other foreign landscapes such as the Big Ben in London. 
+
+ Of the entire team which composed Predictice, 1/3 of the team is now 100% teleworking everywhere in France and the rest benefit from 2 or 3 remote days per week.
 
 
 Predictice attaches fundamental importance to the working environment of its employees (offices, sport, knowledge sharing, team events, etc.) to allow them to flourish and achieve excellence in their missions.
@@ -72,7 +73,7 @@ On the one hand, these challenges give us the opportunity to experiment with new
 - 90 Commits / Days
 - 50% average coverage code
 - 13 deployments per month
-- 185,000 codes spread over 60 projects
+- 185.000 codes spread over 60 projects
 - 400 mega bytes of data  processed per day  
   
  
